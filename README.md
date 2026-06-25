@@ -27,7 +27,7 @@ The project explores the idea of an assistant that not only responds to instruct
 
 A demonstration showcasing EVO's capabilities, including memory, task execution, and system automation.
 
-**Watch Demo:** `docs/evodemo.mp4`
+**Watch Demo:** ![Project Demo](docs/demo.gif)
 
 ---
 
