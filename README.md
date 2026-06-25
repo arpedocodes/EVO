@@ -1,4 +1,4 @@
-# EVO 🤖
+# EVO 
 
 An AI-powered desktop assistant that remembers user preferences, executes tasks, and automates interactions with your PC through natural language commands.
 
@@ -6,12 +6,12 @@ An AI-powered desktop assistant that remembers user preferences, executes tasks,
 
 ## 🌟 Highlights
 
-* 🧠 Persistent memory that adapts to user preferences
-* 💻 Desktop automation and system control
-* 🎯 Multi-step task execution through natural language
-* 📅 Calendar management and productivity tools
-* 🌐 Internet search and information retrieval
-* 🔧 Extensible tool-based architecture
+* Persistent memory that adapts to user preferences
+* Desktop automation and system control
+* Multi-step task execution through natural language
+* Calendar management and productivity tools
+* Internet search and information retrieval
+* Extensible tool-based architecture
 
 ---
 
@@ -27,7 +27,7 @@ The project explores the idea of an assistant that not only responds to instruct
 
 A demonstration showcasing EVO's capabilities, including memory, task execution, and system automation.
 
-**Watch Demo:** ![Project Demo](docs/demo.gif)
+**Watch Demo:** https://github.com/user-attachments/assets/ccfacc27-3706-44cf-aaff-a61fe130419c
 
 ---
 
