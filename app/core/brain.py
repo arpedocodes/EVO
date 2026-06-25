@@ -7,7 +7,6 @@ from collections import deque
 from openai import OpenAI
 from dotenv import load_dotenv
 from core.toolsconfig import TOOLS
-sys.path.append(r"C:\AI EVO (Journey)\EVO - rebirth\app")
 from utils.logger import setup_logger
 from tools.IOT_command_client import process_command
 from tools.system_tools import run_commands

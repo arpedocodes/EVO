@@ -14,3 +14,4 @@ roadmap/
 config/
 *.mp3
 *.json
+IOT_command_client.py

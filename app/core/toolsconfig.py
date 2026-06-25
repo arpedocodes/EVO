@@ -2,28 +2,6 @@ TOOLS = [
     {
         "type": "function",
         "function": {
-            "name": "IOT_command",
-            "description": "Controls room devices. Use exact device names only.",
-            "parameters": {
-                "type": "object",
-                "properties": {
-                    "device": {
-                        "type": "string",
-                        "enum": ["fan", "dim_light", "ceiling_fan", "plug_switch_top", "bright_light", "plug_switch_left"]
-                    },
-                    "action": {
-                        "type": "string",
-                        "enum": ["ON", "OFF"]
-                    }
-                },
-                "required": ["device", "action"],
-                "additionalProperties": False
-            }
-        }
-    },
-    {
-        "type": "function",
-        "function": {
             "name": "execute_tasks",
             "description": (
                 "Execute multiple Windows system commands in order. "
