@@ -1,34 +1,33 @@
-# EVO 
+# EVO
 
-An AI-powered desktop assistant that remembers user preferences, executes tasks, and automates interactions with your PC through natural language commands.
+An AI-powered desktop assistant that remembers your preferences, executes tasks, and automates your PC through natural language.
 
 ---
 
 ## 🌟 Highlights
 
-* Persistent memory that adapts to user preferences
-* Desktop automation and system control
-* Multi-step task execution through natural language
-* Calendar management and productivity tools
-* Internet search and information retrieval
-* Extensible tool-based architecture
+* 🧠 Persistent memory that adapts to your preferences over time
+* 🖥️ Desktop automation and system control
+* 🔗 Multi-step task execution from natural language commands
+* 📅 Calendar management and productivity tools
+* 🔍 Internet search and information retrieval
+* 🧩 Extensible, tool-based architecture
 
 ---
 
 ## ℹ️ Overview
 
-EVO is a personal AI assistant built to bridge the gap between conversational AI and practical desktop automation. Instead of only generating text, EVO can use tools, execute tasks, and interact with the operating system to accomplish real-world actions.
+EVO is a personal AI assistant built to bridge the gap between conversational AI and practical desktop automation. Rather than just generating text, EVO can call tools, run tasks, and interact directly with your operating system to get real work done.
 
-The project explores the idea of an assistant that not only responds to instructions but also remembers user preferences and uses them to provide more personalized interactions over time.
+At its core, EVO explores a simple idea: an assistant that doesn't just respond to instructions, but *remembers* — building a picture of your preferences over time and using it to make every interaction more personal.
 
 ---
 
 ## 🎥 Demo
 
-A demonstration showcasing EVO's capabilities, including memory, task execution, and system automation.
+See EVO in action — memory, task execution, and system automation.
 
-**Watch Demo:** 
-
+**Watch the demo:**
 https://github.com/user-attachments/assets/ccfacc27-3706-44cf-aaff-a61fe130419c
 
 ---
@@ -36,28 +35,24 @@ https://github.com/user-attachments/assets/ccfacc27-3706-44cf-aaff-a61fe130419c
 ## 🚀 What EVO Can Do
 
 ### 🧠 Memory System
-
-* Store and recall user preferences
-* Build context across interactions
-* Update memories dynamically
+* Stores and recalls user preferences
+* Builds context across conversations
+* Updates memories dynamically as things change
 
 ### 💻 System Automation
-
-* Launch applications
-* Execute system commands
-* Automate desktop interactions
+* Launches applications
+* Executes system commands
+* Automates desktop interactions
 
 ### 📅 Productivity Tools
-
-* Create, update, search, and delete calendar events
-* Retrieve information from the internet
-* Execute Python code when required
+* Creates, updates, searches, and deletes calendar events
+* Retrieves information from the internet
+* Executes Python code on demand
 
 ### 🎯 Intelligent Task Execution
-
-* Understand natural language instructions
-* Select and use appropriate tools
-* Execute multi-step workflows
+* Understands natural language instructions
+* Selects and uses the right tool for the job
+* Executes multi-step workflows autonomously
 
 ---
 
@@ -86,13 +81,15 @@ Response & Action Execution
 
 ## ⬇️ Installation
 
+Clone the repository and install dependencies:
+
 ```bash
 git clone https://github.com/arpedocodes/EVO.git
 cd EVO
 pip install -r requirements.txt
 ```
 
-Create a `.env` file:
+Create a `.env` file in the project root:
 
 ```env
 OPENAI_API_KEY=your_api_key
@@ -109,28 +106,28 @@ python main.py
 
 ## 🛠️ Tech Stack
 
-* Python
-* OpenAI API
-* Ollama
-* ChromaDB
-* Tavily Search
-* Google Calendar API
-* NumPy
-* SoundDevice
-* PyDub
+| Category | Technology |
+|---|---|
+| Language | Python |
+| LLM / Inference | OpenAI API, Ollama |
+| Memory / Vector Store | ChromaDB |
+| Search | Tavily Search |
+| Calendar | Google Calendar API |
+| Audio | SoundDevice, PyDub |
+| Numerical | NumPy |
 
 ---
 
 ## 📌 Roadmap
 
-* [ ] Improve long-term memory retrieval
-* [ ] Expand system automation capabilities
-* [ ] Add plugin architecture
-* [ ] Improve reasoning and planning
-* [ ] Cross-platform support
+- [ ] Improve long-term memory retrieval
+- [ ] Expand system automation capabilities
+- [ ] Add plugin architecture
+- [ ] Improve reasoning and planning
+- [ ] Cross-platform support
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT LICENSE](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
