@@ -28,7 +28,8 @@ At its core, EVO explores a simple idea: an assistant that doesn't just respond 
 See EVO in action — memory, task execution, and system automation.
 
 **Watch the demo:**
-https://github.com/user-attachments/assets/ccfacc27-3706-44cf-aaff-a61fe130419c
+
+https://github.com/user-attachments/assets/39a49de2-2da9-4505-8bb2-8c5ce1d7b83c
 
 ---
 
